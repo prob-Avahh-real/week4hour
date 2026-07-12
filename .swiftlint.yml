@@ -1,0 +1,13 @@
+disabled_rules:
+  - trailing_whitespace
+  - comment_spacing
+opt_in_rules:
+  - empty_count
+analyzer_rules:
+  - unused_import
+line_length:
+  warning: 120
+  error: 150
+file_length:
+  warning: 400
+  error: 600
